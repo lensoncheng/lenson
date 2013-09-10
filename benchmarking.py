@@ -1,4 +1,5 @@
 # -*- coidng:utf-8 -*-
+'''压力测试服务器的写入和删除'''
 import requests
 import threading
 import Queue
